@@ -7,13 +7,13 @@ Base de datos escolar y de biblioteca
 - Base de datos de sistema bibliotecario
 
 
-# Que contiene *Sistema escolar*
+# Que contiene *(Sistema escolar)*
 - Estudiantes
 - Docentes
 - Materias
 - Notas
 
-# Que contiene *Sistema bibliotecario*
+# Que contiene *(Sistema bibliotecario)*
 - Libros
 - Prestamos
 - Usuarios
